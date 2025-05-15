@@ -3,7 +3,6 @@
 🎓 BCA Student | 💻 C & Web Dev Enthusiast | 🚀 Future ML Specialist & Entrepreneur  
 📍 Kerala, India
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 ---
 
 ## 🔧 Tech Stack

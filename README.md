@@ -17,7 +17,7 @@
 ## 📚 Learning Journey
 
 - 📘 Mastering C Programming & Advanced Concepts
-- 🧠 Diving into Machine Learning (2025 Goal)
+- 🧠 Diving into Machine Learning (2025-26 Goal)
 - 🛠️ Building my first remote-controlled Arduino car
 - 📈 Learning Business & Entrepreneurship fundamentals
 

@@ -28,7 +28,7 @@
 - Become confident in **JS** & **Python**
 - Build full-stack web apps using **JavaScript**
 - Contribute to open-source & personal projects
-- Prepare for **ML internships** by end of 2025
+- Prepare for **ML internships** by end of 2025/26
 
 ---
 

@@ -8,7 +8,7 @@
 ## 🔧 Tech Stack
 
 - 🌐 Web: HTML, CSS, JavaScript (Learning)
-- 💻 Programming: C (Strong), Learning JavaScript & Python
+- 💻 Programming: C, C++, Learning JavaScript & Python
 - ⚙️ Tools: VS Code, Git & GitHub
 - 📱 Working on: Lecturer Evaluation Form Website
 
@@ -16,7 +16,7 @@
 
 ## 📚 Learning Journey
 
-- 📘 Mastering C Programming & Advanced Concepts
+- 📘 Mastering C/C++ Programming & Advanced Concepts
 - 🧠 Diving into Machine Learning (2025-26 Goal)
 - 🛠️ Built my first remote-controlled Arduino car
 - 📈 Learning Business & Entrepreneurship fundamentals
@@ -28,7 +28,6 @@
 - Become confident in **JS** & **Python**
 - Build full-stack web apps using **JavaScript**
 - Contribute to open-source & personal projects
-- Prepare for **ML internships** by end of 2025/26
 
 ---
 

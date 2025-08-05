@@ -39,7 +39,7 @@
 
 ## 📫 Let's Connect
 
-- 💼 LinkedIn: [@Eshan Shah K]https://www.linkedin.com/in/eshan-shah-k/
+- 💼 LinkedIn: [@eshanshahk]https://www.linkedin.com/in/eshan-shah-k/
 - 📷 Instagram: [@eshan.shaah](https://instagram.com/eshan.shaah)
 - 📬 Email: eshanshahk123@email.com
 
